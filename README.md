@@ -1,2 +1,1 @@
-# Todoer
-A simple Todo App Written for Android
+A simple todo app made for android.
