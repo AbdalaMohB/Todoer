@@ -1,2 +1,3 @@
-A simple todo app made for android with Java.
-Enhance your todo list today
+## A simple todo app made for android with Java.
+
+### Enhance your todo list today!
